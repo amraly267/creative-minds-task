@@ -28,7 +28,6 @@ class productsModel
             $query .= "where order_date between (CURRENT_DATE - INTERVAL 1 MONTH) and CURRENT_DATE ";
         }
         $query .= "GROUP BY products.name ";
-        $query .= "HAVING count(orders.product_id) ";
         $query .= "ORDER BY count(orders.product_id) DESC LIMIT 10 ";
 
         $stmt = $this->conn->prepare($query);

@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="311d8766-ec6b-4c40-a747-688502c6c549" name="Default Changelist" comment="" />
+    <list default="true" id="311d8766-ec6b-4c40-a747-688502c6c549" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/views/layout/header.php" beforeDir="false" afterPath="$PROJECT_DIR$/views/layout/header.php" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -12,6 +14,9 @@
     <execution>
       <executable />
     </execution>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1T8kObvJiztPuOfNyCryWxzHuGH" />
   <component name="PropertiesComponent">
@@ -53,6 +58,7 @@
       <workItem from="1572962748497" duration="548000" />
       <workItem from="1572963493864" duration="838000" />
       <workItem from="1572974390224" duration="4946000" />
+      <workItem from="1573651236190" duration="13000" />
     </task>
     <servers />
   </component>
