@@ -4,7 +4,7 @@ $navUrl = "http://".$_SERVER['HTTP_HOST'].str_replace(basename($_SERVER['SCRIPT_
 <html lang="en">
     <head>
         <meta charset="utf-8">
-        <title>MindsUA</title>
+        <title>Creative Minds</title>
         <link rel="stylesheet" href="../assets/plugins/fontawesome-free/css/all.min.css">
         <link rel="stylesheet" href="../assets/plugins/daterangepicker/daterangepicker.css">
         <link rel="stylesheet" href="../assets/css/adminlte.css">
