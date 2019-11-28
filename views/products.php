@@ -23,7 +23,7 @@ $products = json_decode($productsObject->getTopProducts(), true);
                 <div class="col-12">
                     <div class="card">
                         <div class="card-header">
-                            <h3 class="card-title">Top 10 Products</h3>
+                            <h3 class="card-title">Top Purchased Products</h3>
                             <br>
                             <div class="card-tools col-4">
                                 <div class="input-group">
